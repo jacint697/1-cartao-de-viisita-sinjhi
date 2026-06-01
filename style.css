@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(133, 129, 129);
+    text-align: center;
+    border-radius: 180px;
+    border-style: groove;
+background-image: url("Dio.webp");
+
+}
+.cartao img {
+    width: 500px;  
+    background-color: rgb(19, 19, 131);
+    margin:auto
+
+}
+
+p, h1, h2 {
+    color: rgb(157, 255, 0);
+}
